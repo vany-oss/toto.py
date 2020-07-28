@@ -1,4 +1,6 @@
 #Usei estrutura de repitiçao, com loop infinito...fiz varios if e elif. e os nr dos preiomois sao breaks. mas vi k estava a ser interessante desenvolvi...ha um erro  um nr prémio nao sera imprimido e nr 25 ele n emprimi o ganho mas cantabilisa isso pk fiz um break se a tentativa for maior k volaor apostado.
+
+
 print('\033[44mOla! ---->Seja Benvindo Ao TotoGame<----:\033[m\n\033[36mHá 5 Números dentro do quadro abaixo,que\nSe for acertado à primeira será o Jackpot de \033[32m500$.\nTens 10 Tentativas para Ganhares 2500$.\nMas aprtir de 11 Tentativas Os Nr Prémios Começam\nA serem revelados e o Jackpot Será INVÁLIDO. \033[m')
 print('\033[42mHá Também 2 Números Chaves que Dà 10$ \nSe acertares qual foi.\033[m')
 print('Os Jackpot começam a sererem \033[41mINVALIDADOS\033[m\nApartir de \033[33m11*\033[m Tentativas,e acabam em \033[33m22*\033[m Tentativas.\nSó Ficam os prémios das Chaves.\033[32mBoa Sorte.\033[m ')
@@ -82,3 +84,6 @@ print('\033[42mEu ganhei {} $ e Tu ficaste com {}$ No teu Saldo de {} Euros:\033
 #print('\033[44m---->voçe saiu----->Volte Sempre: comMaisDINHEIRO-->(-:)\033[m')
 print('\033[44mNo Total Ganhaste {} Euros, do Jackpot e {} Euros Nas Chaves.\033[m'.format(jack -ten,ch - ten))
 print('\033[44m---->voçe saiu----->Volte Sempre: comMaisDINHEIRO-->(-:)\033[m')
+
+# stou no git desktop dentro de linux
+
